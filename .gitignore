@@ -1,3 +1,6 @@
 venv
 django_project/settings/__init__.py
+blog/migrations/0001_initial.py
+users/migrations/0001_initial.py
+
 
